@@ -1,7 +1,7 @@
 
 const Year = () => {
     return (
-        <div>
+        <div className="year">
             <h1>Year</h1>
         </div>
     )

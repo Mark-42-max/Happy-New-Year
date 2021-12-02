@@ -1,2 +1,2 @@
 # Happy-New-Year
- A react application to wish happy new year.
+ A happy new year wishing page with react
